@@ -1,5 +1,5 @@
 {
-    "name": "zen/test",
+    "name": "766ez/extension",
     "description": "test",
     "keywords": [
         "flarum"
@@ -13,7 +13,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/zen/test"
+            "url": "https://github.com/766ez/extension"
         }
     ],
     "authors": [
