@@ -7,8 +7,15 @@
     "type": "flarum-extension",
     "license": "MIT",
     "require": {
-        "flarum/core": "^2.0"
+        "flarum/core": "^2.0",
+        "zen/test": "dev-master"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/zen/test"
+        }
+    ],
     "authors": [
         {
             "name": "Zenichou",
